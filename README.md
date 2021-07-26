@@ -6,5 +6,7 @@ The latest game from the Blindside Interactive, creator of Killing Floor and Dep
 
 ## Get in touch
 Our homepage https://blindsideinteractive.com
+
 IndieDB profile http://www.indiedb.com/company/blindside-interactive
+
 Email support@blindsideinteractive.com
